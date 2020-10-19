@@ -1,0 +1,1 @@
+The QLogic Driver source is provided by QLogic (currently Marvell), who does not host the source publicly at this time. The version is: 8.07.00.34.Trunk-SCST.19-k
